@@ -8,4 +8,4 @@ Federated Insurance
 •	Optimize the file system architecture and enhance the efficiency of running web application.
 
 
-• This is the first draft of GUI using JSP/HTML/CSS. 
+• This is the first draft of GUI using JSP, HTML/CSS. 
