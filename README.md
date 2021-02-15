@@ -6,3 +6,6 @@ Federated Insurance
 •	Implemented the web development application based on software development life cycle. To make sure all information from clients out by business rules, client-side and server-side validation functions are implemented.
 
 •	Optimize the file system architecture and enhance the efficiency of running web application.
+
+
+• This is the first draft of GUI using JSP/HTML/CSS. 
